@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Pass Task 2.1</string>
-    <string-array name="measurements">
-        <item>Meter</item>
-        <item>Celsius</item>
-        <item>Kilogram</item>
-    </string-array>
-</resources>
